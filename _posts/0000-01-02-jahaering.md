@@ -2,10 +2,10 @@
 
 layout: slide
 
-title: "Welcome to our second slide!"
+title: "yo yo hello memers"
 
 ---
 
-Your text
+what are those
 
 Use the left arrow to go back!
